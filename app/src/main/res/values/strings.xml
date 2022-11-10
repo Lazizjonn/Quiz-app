@@ -1,0 +1,1694 @@
+<resources>
+    <string name="app_name">Computer Science</string>
+
+    <!--Main_activity-->
+    <string name="next">Next</string>
+    <!--Main_activity-->
+
+    <!--category_activity-->
+    <string name="choose_your_category">Choose your category</string>
+    <string name="c_plus">C++ programming</string>
+    <string name="computer_communication">Computer communication</string>
+    <string name="computer_fundamentals">Computer fundamentals</string>
+    <string name="computer_instructor">Computer instructor</string>
+    <string name="computer_and_internet">Computer and internet</string>
+    <string name="computer_memory">Computer memory</string>
+    <string name="computer_architecture">Computer architecture</string>
+    <string name="computer_networks">Computer networks</string>
+    <string name="computer_organization">Computer organization</string>
+    <string name="data_communication">Data communication</string>
+    <string name="data_processing">Data processing</string>
+    <string name="data_structure">Data structure</string>
+    <string name="internet_technology">Internet technology</string>
+    <string name="it">IT</string>
+    <string name="operating_system">Operating system</string>
+    <string name="art_intel">Artificial Intelligence</string>
+    <!--category_activity-->
+
+        <string name="your_string"></string>
+
+
+    <!--category_activity-->
+    <string name="exit">Exit</string>
+    <string name="about">About</string>
+    <string name="new_quiz">New quiz</string>
+    <string name="congratulations">Congratulations</string>
+    <!--category_activity-->
+
+    <!--C++_1_part-->
+    <string-array name="c_plus_plus_questions">
+        <item>Which of the following creates object file from source code?</item>
+        <item>Which of the following functions will be executed first automatically, when a C++ program is executed?</item>
+        <item>A program written in high level language is called as ____</item>
+        <item>The multiple branching statements are ___ statement</item>
+        <item>____ executes a set of instructions repeatedly for a certain number of times</item>
+        <item>In order to exit from switch statement ___ statement is used</item>
+        <item>Nested if…else statement can be replaced by the statement of ___</item>
+        <item>____ condition is called as the entry-</item>
+        <item>____ statement which chooses between two alternatives</item>
+        <item>The operator >> is called as ____</item>
+        <item>Matrices can be represented through ____ arrays</item>
+        <item>____ is an entry controlled loop and is used when an action is to be repeated for a predetermined number of times</item>
+        <item>Arrays in C++ belong to which of the following data type?</item>
+        <item>____ is called as exit-check loop</item>
+        <item>Which of the following is the simplest of all the decision statements?</item>
+    </string-array>
+    <string-array name="c_plus_plus_answers">
+        <item>Compiler</item>
+        <item>Main</item>
+        <item>Source code</item>
+        <item>Switch</item>
+        <item>Loop</item>
+        <item>Break</item>
+        <item>Switch-case</item>
+        <item>While</item>
+        <item>If else</item>
+        <item>Extraction operator</item>
+        <item>2-D</item>
+        <item>For</item>
+        <item>Derived</item>
+        <item>Do while</item>
+        <item>If</item>
+    </string-array>
+    <string-array name="c_plus_plus_variant_1">
+        <item>Editor</item>
+        <item>Call by reference</item>
+        <item>Object code</item>
+        <item>If</item>
+        <item>If</item>
+        <item>Case</item>
+        <item>Do while</item>
+        <item>Do</item>
+        <item>While</item>
+        <item>Stream operator</item>
+        <item>Single</item>
+        <item>Break</item>
+        <item>Primitive</item>
+        <item>Do</item>
+        <item>If</item>
+    </string-array>
+    <string-array name="c_plus_plus_variant_2">
+        <item>Header</item>
+        <item>Recursive</item>
+        <item>Source code</item>
+        <item>Switch</item>
+        <item>Loop</item>
+        <item>Break</item>
+        <item>For</item>
+        <item>For</item>
+        <item>For</item>
+        <item>Abstraction operator</item>
+        <item>2-D</item>
+        <item>If</item>
+        <item>User defined</item>
+        <item>For</item>
+        <item>While</item>
+    </string-array>
+    <string-array name="c_plus_plus_variant_3">
+        <item>Linker</item>
+        <item>Void</item>
+        <item>Executable code</item>
+        <item>For</item>
+        <item>Switch</item>
+        <item>Continue</item>
+        <item>Switch-case</item>
+        <item>Break</item>
+        <item>If</item>
+        <item>Insertion operator</item>
+        <item>3-D</item>
+        <item>Switch</item>
+        <item>Derived</item>
+        <item>While</item>
+        <item>Break</item>
+    </string-array>
+    <string-array name="c_plus_plus_variant_4">
+        <item>Compiler</item>
+        <item>Main</item>
+        <item>All of these</item>
+        <item>While</item>
+        <item>If-then</item>
+        <item>Switch</item>
+        <item>Select-case</item>
+        <item>While</item>
+        <item>If else</item>
+        <item>Extraction operator</item>
+        <item>Multi-dimensional</item>
+        <item>For</item>
+        <item>Basic</item>
+        <item>Do while</item>
+        <item>Switch</item>
+    </string-array>
+    <!--C++_1_part-->
+
+    <!--Computer_communication_2_part-->
+    <string-array name="Computer_communication_questions">
+        <item>Information on a single computer can be accessed by other computers in a ____</item>
+        <item>Wireless networks are useful when computers are</item>
+        <item>Wireless network communicates ___ than a wired network.</item>
+        <item>The network topology is the ____ of the communication channels.</item>
+        <item>A ____ is typically two or more LANs connected together across a wide geographical area.</item>
+        <item>In bus network, the data transmission is ___</item>
+        <item>____ eliminates distance constraints to take a printout at a different location.</item>
+        <item>___ are tools that allow the user to find specific document through key words or menu choices.</item>
+        <item>_____ is used for the net user for transferring files around the world.</item>
+        <item>____ creates a digital signal and modulates using the modem.</item>
+        <item>Each page on the internet is called a ____</item>
+        <item>____ indicates the link to other sites.</item>
+        <item>____ applications are well suited to control data storage activity on different storage systems.</item>
+        <item>The speed at which data travel over a communication channel is called the ____</item>
+        <item>Which is used for manufacturing chips?</item>
+    </string-array>
+    <string-array name="Computer_communication_answers">
+        <item>Network</item>
+        <item>portable</item>
+        <item>slowly</item>
+        <item>structure or layout</item>
+        <item>WAN</item>
+        <item>None of these</item>
+        <item>Print service</item>
+        <item>Search Engines</item>
+        <item>FTP</item>
+        <item>DTE</item>
+        <item>Webpage</item>
+        <item>Hyperlink</item>
+        <item>Network</item>
+        <item>Communication rate</item>
+        <item>Semiconductors</item>
+    </string-array>
+    <string-array name="Computer_communication_variant_1">
+        <item>Stand-alone</item>
+        <item>connected</item>
+        <item>faster</item>
+        <item>file</item>
+        <item>LAN</item>
+        <item>Bidirectional</item>
+        <item>Volume</item>
+        <item>HTTP</item>
+        <item>FTP/IP</item>
+        <item>DEC</item>
+        <item>WWW</item>
+        <item>Hypermedia</item>
+        <item>Server</item>
+        <item>Buard rate</item>
+        <item>Semiconductors</item>
+    </string-array>
+    <string-array name="Computer_communication_variant_2">
+        <item>Network</item>
+        <item>fixed</item>
+        <item>fastly</item>
+        <item>server</item>
+        <item>WAN</item>
+        <item>One direction</item>
+        <item>Signal</item>
+        <item>URL</item>
+        <item>TCP/IP</item>
+        <item>DTE</item>
+        <item>Web</item>
+        <item>Hyperweb</item>
+        <item>Stand alone</item>
+        <item>Communal</item>
+        <item>Bus</item>
+    </string-array>
+    <string-array name="Computer_communication_variant_3">
+        <item>Mainframe</item>
+        <item>portable</item>
+        <item>slowly</item>
+        <item>folder</item>
+        <item>MAN</item>
+        <item>No direction</item>
+        <item>Print service</item>
+        <item>E-mails</item>
+        <item>FTP</item>
+        <item>DET</item>
+        <item>Webpage</item>
+        <item>Hyperlink</item>
+        <item>Network</item>
+        <item>Communication rate</item>
+        <item>Control unit</item>
+    </string-array>
+    <string-array name="Computer_communication_variant_4">
+        <item>None</item>
+        <item>non-movable</item>
+        <item>slower</item>
+        <item>structure or layout</item>
+        <item>Network</item>
+        <item>None of these</item>
+        <item>No</item>
+        <item>Search Engines</item>
+        <item>TCP</item>
+        <item>DCE</item>
+        <item>Host</item>
+        <item>Hypertext</item>
+        <item>All the above</item>
+        <item>Communicate</item>
+        <item>b and c only</item>
+    </string-array>
+    <!--Computer_communication_2_part-->
+
+    <!--Computer_fundamental_3_part-->
+    <string-array name="Computer_fundamental_questions">
+        <item>_______ is defined as the science of selecting and interconnecting hardware components to create computers that meets functional, performance and cost goals.</item>
+        <item>The ALU makes use of _____  to store the intermediate results.</item>
+        <item>Which are used to overcome the difference in data transfer speeds of various devices?</item>
+        <item>A type of instruction that produce several lines of machine language code is a</item>
+        <item>Which is not the example of special purpose computer?</item>
+        <item>Which is a device that changes information into digital form?</item>
+        <item>_____ is a group of instruction that directs a computer?</item>
+        <item>_____ invented the microprocessor.</item>
+        <item>Control unit of a digital computer is often called as the</item>
+        <item>The system unit of a personal computer typically contains all of the following except</item>
+        <item>The ALU performs _____  operation.</item>
+        <item>The microprocessor is the brain of the computer and is also called a</item>
+        <item>From which of the following the CPU chip is partially made?</item>
+        <item>Personal computers use a number of chips mounted on a main circuit board. What is the common name for such boards?</item>
+        <item>Which of the following is the sequence of micro instructions?</item>
+    </string-array>
+    <string-array name="Computer_fundamental_answers">
+        <item>Computer architecture</item>
+        <item>Accumulators</item>
+        <item>Buffer registers</item>
+        <item>Macro</item>
+        <item>Word Processor</item>
+        <item>Digitizer</item>
+        <item>Program</item>
+        <item>Marcian E Hoff</item>
+        <item>Nervous center</item>
+        <item>Modem</item>
+        <item>Arithmetic</item>
+        <item>Microchip</item>
+        <item>Silica</item>
+        <item>Motherboard</item>
+        <item>Micro</item>
+    </string-array>
+    <string-array name="Computer_fundamental_variant_1">
+        <item>Calculating machine</item>
+        <item>Accumulators</item>
+        <item>Buffer registers</item>
+        <item>Assemble</item>
+        <item>Multimedia computer</item>
+        <item>Light pen</item>
+        <item>Logic</item>
+        <item>Joseph jacquard</item>
+        <item>System center</item>
+        <item>Monitor</item>
+        <item>Logarithm</item>
+        <item>Microchip</item>
+        <item>Gold</item>
+        <item>Broad board</item>
+        <item>Micro</item>
+    </string-array>
+    <string-array name="Computer_fundamental_variant_2">
+        <item>Computer architecture</item>
+        <item>Heap</item>
+        <item>Multiple buses</item>
+        <item>Macro</item>
+        <item>Word Processor</item>
+        <item>Modem</item>
+        <item>Data</item>
+        <item>Herman H Goldstein</item>
+        <item>Input center</item>
+        <item>RAM</item>
+        <item>Algorithm</item>
+        <item>Microprocessor</item>
+        <item>Silica</item>
+        <item>Daughterboard</item>
+        <item>Micro circuit</item>
+    </string-array>
+    <string-array name="Computer_fundamental_variant_3">
+        <item>Calculator</item>
+        <item>Registers</item>
+        <item>Bridge circuits</item>
+        <item>Address</item>
+        <item>Automatic Aircraft Landing</item>
+        <item>Mouse</item>
+        <item>Program</item>
+        <item>Marcian E Hoff</item>
+        <item>Logical center</item>
+        <item>Modem</item>
+        <item>Arithmetic</item>
+        <item>Micro circuit</item>
+        <item>Copper</item>
+        <item>Motherboard</item>
+        <item>Microcode</item>
+    </string-array>
+    <string-array name="Computer_fundamental_variant_4">
+        <item>Computer</item>
+        <item>None of these</item>
+        <item>Speed enhancing circuitry</item>
+        <item>Mnemonic</item>
+        <item>All of the above</item>
+        <item>Digitizer</item>
+        <item>Information</item>
+        <item>Jonathn Smith</item>
+        <item>Nervous center</item>
+        <item>Microprocessor</item>
+        <item>ASCII</item>
+        <item>Calculator</item>
+        <item>Iron</item>
+        <item>None of these</item>
+        <item>Micro instruction</item>
+    </string-array>
+    <!--Computer_fundamental_3_part-->
+
+    <!--Computer_instructor_4_part-->
+    <string-array name="Computer_instructor_questions">
+        <item>Which of the following is the product of data processing?</item>
+        <item>Which is widely used in academic testing?</item>
+        <item>A computer derives its basic strength from</item>
+        <item>A BIT represents a</item>
+        <item>A kilobyte, also referred to as K, is equal to</item>
+        <item>Which kind of storage device can be carried around?</item>
+        <item>A digital computer is superior to an analog computer in terms of</item>
+        <item>Who is regarded as father of computers</item>
+        <item>Which of the following is not an example of application software?</item>
+        <item>Inputs to your computer is accomplished using the</item>
+        <item>Scanner is an example of</item>
+        <item>Image transfer is done on following printer</item>
+        <item>_______ is used to instruct the computer, what to do and how to do it.</item>
+        <item>What is not true for computer?</item>
+        <item>Digital cameras is an example of</item>
+    </string-array>
+    <string-array name="Computer_instructor_answers">
+        <item>Information</item>
+        <item>OMR</item>
+        <item>All of these</item>
+        <item>Binary digit</item>
+        <item>1024 bytes</item>
+        <item>Floppy disk</item>
+        <item>Cost, accuracy and versatility</item>
+        <item>Charles Babbage</item>
+        <item>DOS</item>
+        <item>Keyboard</item>
+        <item>Input device</item>
+        <item>Laser</item>
+        <item>Software</item>
+        <item>All are true</item>
+        <item>Input device</item>
+    </string-array>
+    <string-array name="Computer_instructor_variant_1">
+        <item>Software program</item>
+        <item>OMR</item>
+        <item>Memory</item>
+        <item>Hexadecimal digit</item>
+        <item>1000 bytes</item>
+        <item>Hard disk drive</item>
+        <item>Cost, speed and accuracy</item>
+        <item>Charles Babbage</item>
+        <item>Computer graphics</item>
+        <item>Printer</item>
+        <item>Music device</item>
+        <item>Laser</item>
+        <item>Web Browser</item>
+        <item>It also includes the means for storing data for further use</item>
+        <item>Music device</item>
+    </string-array>
+    <string-array name="Computer_instructor_variant_2">
+        <item>Hard copy output</item>
+        <item>OCR</item>
+        <item>Accuracy</item>
+        <item>Octal digit</item>
+        <item>1024 bytes</item>
+        <item>System cabinet</item>
+        <item>Cost, accuracy and versatility</item>
+        <item>Pascal</item>
+        <item>DOS</item>
+        <item>Plotter</item>
+        <item>Output device</item>
+        <item>Inkjet</item>
+        <item>Win zip</item>
+        <item>Program is a sequence of instructions on how the data is to be processed</item>
+        <item>Input device</item>
+    </string-array>
+    <string-array name="Computer_instructor_variant_3">
+        <item>Information</item>
+        <item>MICR</item>
+        <item>Speed</item>
+        <item>Decimal digit</item>
+        <item>2048 bytes</item>
+        <item>Hard disk</item>
+        <item>Cost, speed, and space requirements</item>
+        <item>John Napier</item>
+        <item>Spreadsheet</item>
+        <item>Keyboard</item>
+        <item>Input device</item>
+        <item>Drum</item>
+        <item>Hardware</item>
+        <item>An electronic device that accepts data and process it for some information based on a program</item>
+        <item>Output device</item>
+    </string-array>
+    <string-array name="Computer_instructor_variant_4">
+        <item>Data</item>
+        <item>POS</item>
+        <item>All of these</item>
+        <item>Binary digit</item>
+        <item>512 bytes</item>
+        <item>Floppy disk</item>
+        <item>All of these</item>
+        <item>Abacus</item>
+        <item>Word Processing</item>
+        <item>Screen</item>
+        <item>None of these</item>
+        <item>Dot matrix</item>
+        <item>Software</item>
+        <item>All are true</item>
+        <item>None of these</item>
+    </string-array>
+    <!--Computer_instructor_4_part-->
+
+    <!--Computer_internet_5_part-->
+    <string-array name="Computer_internet_questions">
+        <item>A distributed network configuration in which all data/information pass through a central computer is</item>
+        <item>A datum that indicates some important state in the content of input or output is</item>
+        <item>A(n) ____  is composed of several computers connected together to share resources and data.</item>
+        <item>Which device is used to access your computer by other computer or for talk over phone?</item>
+        <item>Computers that control processes accept data in a continuous</item>
+        <item>Which of the following transport layer protocols is used to support electronic mail?</item>
+        <item>Unix was developed by</item>
+        <item>A network which is used for sharing data, software hardware among several users owing micro computers is called</item>
+        <item>Layer 1 of the OSI model is</item>
+        <item>End-to-end connectivity is provided from host-to-host in</item>
+        <item>Which of the following transport layer protocols is used to support electronic mail?</item>
+        <item>Unix was developed by</item>
+        <item>A network which is used for sharing data, software hardware among several users owing micro computers is called</item>
+        <item>Layer 1 of the OSI model is</item>
+        <item>End-to-end connectivity is provided from host-to-host in</item>
+        <item>A distributed network configuration in which all data/information pass through a central computer is</item>
+        <item>A datum that indicates some important state in the content of input or output is</item>
+        <item>A(n) ____ is composed of several computers connected together to share resources and data.</item>
+        <item>Which device is used to access your computer by other computer or for talk over phone?</item>
+        <item>Computers that control processes accept data in a continuous</item>
+    </string-array>
+    <string-array name="Computer_internet_answers">
+        <item>Star network</item>
+        <item>Sentinel</item>
+        <item>Network</item>
+        <item>Modem</item>
+        <item>Infinite loop</item>
+        <item>TCP</item>
+        <item>Bell labs</item>
+        <item>LAN</item>
+        <item>Physical layer</item>
+        <item>Transport layer</item>
+        <item>TCP</item>
+        <item>Bell labs</item>
+        <item>LAN</item>
+        <item>Physical layer</item>
+        <item>Transport layer</item>
+        <item>Star network</item>
+        <item>Sentinel</item>
+        <item>Network</item>
+        <item>Modem</item>
+        <item>Infinite loop</item>
+    </string-array>
+    <string-array name="Computer_internet_variant_1">
+        <item>Multiplex</item>
+        <item>Sibling</item>
+        <item>Protocol</item>
+        <item>Hard disk</item>
+        <item>Infinite loop</item>
+        <item>IP</item>
+        <item>Berkley software group</item>
+        <item>LAN</item>
+        <item>Link layer</item>
+        <item>Data link layer</item>
+        <item>IP</item>
+        <item>Berkley software group</item>
+        <item>LAN</item>
+        <item>Link layer</item>
+        <item>Data link layer</item>
+        <item>Multiplex</item>
+        <item>Sibling</item>
+        <item>Protocol</item>
+        <item>Hard disk</item>
+        <item>Infinite loop</item>
+    </string-array>
+    <string-array name="Computer_internet_variant_2">
+        <item>Duplex</item>
+        <item>SIO</item>
+        <item>Hyperlink</item>
+        <item>Modem</item>
+        <item>Sot</item>
+        <item>UDP</item>
+        <item>Bell labs</item>
+        <item>WAN</item>
+        <item>Transport layer</item>
+        <item>Network layer</item>
+        <item>UDP</item>
+        <item>Bell labs</item>
+        <item>WAN</item>
+        <item>Transport layer</item>
+        <item>Network layer</item>
+        <item>Duplex</item>
+        <item>SIO</item>
+        <item>Hyperlink</item>
+        <item>Modem</item>
+        <item>Sot</item>
+    </string-array>
+    <string-array name="Computer_internet_variant_3">
+        <item>Bus network</item>
+        <item>Sequence</item>
+        <item>Network</item>
+        <item>CD ROM Drive</item>
+        <item>Data highway</item>
+        <item>SMTP</item>
+        <item>California University</item>
+        <item>MAN</item>
+        <item>Network layer</item>
+        <item>Transport layer</item>
+        <item>SMTP</item>
+        <item>California University</item>
+        <item>MAN</item>
+        <item>Network layer</item>
+        <item>Transport layer</item>
+        <item>Bus network</item>
+        <item>Sequence</item>
+        <item>Network</item>
+        <item>CD ROM Drive</item>
+        <item>Data highway</item>
+    </string-array>
+    <string-array name="Computer_internet_variant_4">
+        <item>Star network</item>
+        <item>Sentinel</item>
+        <item>Internet</item>
+        <item>RAM</item>
+        <item>Data traffic pattern</item>
+        <item>TCP</item>
+        <item>American Defence Academy</item>
+        <item>VAN</item>
+        <item>Physical layer</item>
+        <item>Session layer</item>
+        <item>TCP</item>
+        <item>American Defence Academy</item>
+        <item>VAN</item>
+        <item>Physical layer</item>
+        <item>Session layer</item>
+        <item>Star network</item>
+        <item>Sentinel</item>
+        <item>Internet</item>
+        <item>RAM</item>
+        <item>Data traffic pattern</item>
+    </string-array>
+    <!--Computer_internet_5_part-->
+
+    <!--Computer_memory_6_part-->
+    <string-array name="Computer_memory_questions">
+        <item>The smallest unit in a digit system is</item>
+        <item>A temporary storage area, attached to the CPU, for I/O operations is a</item>
+        <item>Real time computing is possible because of the following characteristic of computer</item>
+        <item>A permanent memory is called</item>
+        <item>Which of the following computer language is used for artificial intelligence?</item>
+        <item>CD and DVD drives are the examples of</item>
+        <item>What is the full form of PROM?</item>
+        <item>ROM is an example of which of the following?</item>
+        <item>_______ consists of volatile chips that temporarily store data or instructions.</item>
+        <item>Data on a floppy disk is recorded in rings called</item>
+        <item>Which of the following does not store data permanently?</item>
+        <item>What do you call a computer on a network that requests files from another computer?</item>
+        <item>An organized collection of logically related data is known as ____</item>
+        <item>Storage device found inside the computer</item>
+        <item>Which of the following is a secondary storage device?</item>
+    </string-array>
+    <string-array name="Computer_memory_answers">
+        <item>Bit</item>
+        <item>Buffer</item>
+        <item>High speed</item>
+        <item>ROM</item>
+        <item>PROLOG</item>
+        <item>Storage devices</item>
+        <item>Programmable Read only Memory</item>
+        <item>Nonvolatile memory</item>
+        <item>RAM</item>
+        <item>Tracks</item>
+        <item>RAM</item>
+        <item>A client</item>
+        <item>Database</item>
+        <item>Hard Disk</item>
+        <item>Optical disks</item>
+    </string-array>
+    <string-array name="Computer_memory_variant_1">
+        <item>Byte</item>
+        <item>Core</item>
+        <item>Accuracy</item>
+        <item>ALU</item>
+        <item>C</item>
+        <item>Printers</item>
+        <item>Program Read-only Memory</item>
+        <item>Virtual memory</item>
+        <item>RAM</item>
+        <item>Segments</item>
+        <item>Hard Disk</item>
+        <item>A web server</item>
+        <item>Data versus information</item>
+        <item>CD-ROM</item>
+        <item>Microprocessor</item>
+    </string-array>
+    <string-array name="Computer_memory_variant_2">
+        <item>Kilobyte</item>
+        <item>Register</item>
+        <item>Storage capability</item>
+        <item>CPU</item>
+        <item>COBOL</item>
+        <item>Storage devices</item>
+        <item>Perfect Read only Memory</item>
+        <item>Nonvolatile memory</item>
+        <item>RMA</item>
+        <item>Tracks</item>
+        <item>Floppy disk</item>
+        <item>A router</item>
+        <item>Database</item>
+        <item>Hard Disk</item>
+        <item>RAM</item>
+    </string-array>
+    <string-array name="Computer_memory_variant_3">
+        <item>Bit</item>
+        <item>Buffer</item>
+        <item>Versatility</item>
+        <item>ROM</item>
+        <item>PROLOG</item>
+        <item>Solid stage storage</item>
+        <item>Programmable Read only Memory</item>
+        <item>Cache memory</item>
+        <item>ROM</item>
+        <item>Ringers</item>
+        <item>RAM</item>
+        <item>A host</item>
+        <item>Meta data</item>
+        <item>Super Disk</item>
+        <item>Optical disks</item>
+    </string-array>
+    <string-array name="Computer_memory_variant_4">
+        <item>Character</item>
+        <item>Chip</item>
+        <item>High speed</item>
+        <item>RAM</item>
+        <item>FORTRAN</item>
+        <item>Zip drives</item>
+        <item>Progressive Read only Memory</item>
+        <item>Volatile memory</item>
+        <item>CPU</item>
+        <item>Sectors</item>
+        <item>ROM</item>
+        <item>A client</item>
+        <item>Data</item>
+        <item>Zip Disk</item>
+        <item>All of these</item>
+    </string-array>
+    <!--Computer_memory_6_part-->
+
+    <!--Computer_msq_7_part-->
+    <string-array name="Computer_msq_questions">
+        <item>Internal hard disk is</item>
+        <item>The main memory of computer is also called as</item>
+        <item>How much data can be stored in a CD?</item>
+        <item>CD-ROM stands for</item>
+        <item>_____ has the shortest access times.</item>
+        <item>Using Microsoft word we can simply ___</item>
+        <item>The Binary Coded Decimal (BCD) uses</item>
+        <item>Which of the following is billionth of a second?</item>
+        <item>The two kinds of main memory are</item>
+        <item>RAM is also called as</item>
+        <item>Which of the following is the second largest measurement of RAM?</item>
+        <item>Programs stored in ROM are called as</item>
+        <item>Cache memory acts between</item>
+        <item>We can make use of the wild card entries such as ___ in Windows Explorer.</item>
+        <item>Analog computer works on the supply of</item>
+    </string-array>
+    <string-array name="Computer_msq_answers">
+        <item>Fixed</item>
+        <item>Primary storage</item>
+        <item>700 MB</item>
+        <item>Compact Disc Read Only Memory</item>
+        <item>Cache Memory</item>
+        <item>All the above functions</item>
+        <item>6 bits</item>
+        <item>Nanosecond</item>
+        <item>RAM and ROM</item>
+        <item>Volatile memory</item>
+        <item>Byte</item>
+        <item>Firmware</item>
+        <item>CPU and RAM</item>
+        <item>.?,*</item>
+        <item>Continuous electrical pulses</item>
+    </string-array>
+    <string-array name="Computer_msq_variant_1">
+        <item>Removable but not fixed</item>
+        <item>Hard-disk</item>
+        <item>300 MB</item>
+        <item>Compactable Disc Read Only Memory</item>
+        <item>Virtual Memory</item>
+        <item>Paste picture</item>
+        <item>6 bits</item>
+        <item>Microsecond</item>
+        <item>CDs and DVDs</item>
+        <item>Virtual memory</item>
+        <item>Megabyte</item>
+        <item>Fireware</item>
+        <item>CPU and Hard disk</item>
+        <item>.#,@</item>
+        <item>Physical strength</item>
+    </string-array>
+    <string-array name="Computer_msq_variant_2">
+        <item>Removable</item>
+        <item>Primary storage</item>
+        <item>400 MB</item>
+        <item>Compact Data Read Only Memory</item>
+        <item>Secondary Memory</item>
+        <item>Type</item>
+        <item>8 bits</item>
+        <item>Nanosecond</item>
+        <item>RAM and ROM</item>
+        <item>Volatile memory</item>
+        <item>Gigabyte</item>
+        <item>Formware</item>
+        <item>RAM and ROM</item>
+        <item>.^,*</item>
+        <item>Natural strength</item>
+    </string-array>
+    <string-array name="Computer_msq_variant_3">
+        <item>Not fixed</item>
+        <item>Secondary storage</item>
+        <item>670 MB</item>
+        <item>Compactable Read Only Memory</item>
+        <item>Cache Memory</item>
+        <item>Format a text</item>
+        <item>16 bits</item>
+        <item>Terabyte</item>
+        <item>Primary and secondary</item>
+        <item>Non volatile memory</item>
+        <item>Byte</item>
+        <item>Farmware</item>
+        <item>CPU and RAM</item>
+        <item>.?,*</item>
+        <item>Magnetic strength</item>
+    </string-array>
+    <string-array name="Computer_msq_variant_4">
+        <item>Fixed</item>
+        <item>Internal memory</item>
+        <item>700 MB</item>
+        <item>Compact Disc Read Only Memory</item>
+        <item>All of the above</item>
+        <item>All the above functions</item>
+        <item>32 bits</item>
+        <item>Gigabyte</item>
+        <item>Direct and sequential</item>
+        <item>Cache memory</item>
+        <item>Terabyte</item>
+        <item>Firmware</item>
+        <item>All of these</item>
+        <item>.?,#</item>
+        <item>Continuous electrical pulses</item>
+    </string-array>
+    <!--Computer_msq_7_part-->
+
+    <!--Computer_networks_8_part-->
+    <string-array name="Computer_networks_questions">
+        <item>Binary Coded Decimal (BCD) numbers express each decimal digital as</item>
+        <item>A collection of computers and devices connected together via communication devices and transmission media is called a</item>
+        <item>The communication mode that supports data in both directions at the same time is</item>
+        <item>An alternate name for the completely interconnected network topology is</item>
+        <item>A station in a network forwards incoming packets by placing them on its shortest output queue. What routing algorithm is being used?</item>
+        <item>Which of the following is not a disadvantage of wireless LAN?</item>
+        <item>Networks are monitored by security personnel and supervised by _____ who set(s) up accounts and passwords for authorized network users.</item>
+        <item>______ is a technique that is used to send more than one call over a single line.</item>
+        <item>The portion of server memory set aside to temporary hold data packets from workstations is called</item>
+        <item>What frequency range is used for FM radio transmission?</item>
+        <item>A software that allows a personal computer to pretend it, as a terminal is</item>
+        <item>What frequency range is used for TV transmission and low power microwave applications?</item>
+        <item>Which of the following techniques is used for Time-To-Line (TTL)?</item>
+        <item>The most common input device used today is</item>
+        <item>Which of the following TCP/IP protocol is used for the file transfer with minimal capability and minimal overhead?</item>
+    </string-array>
+    <string-array name="Computer_networks_answers">
+        <item>Nibble</item>
+        <item>Network</item>
+        <item>Duplex</item>
+        <item>Mesh</item>
+        <item>Hot potato routing</item>
+        <item>All of the above</item>
+        <item>Network administrators</item>
+        <item>Multiplexing</item>
+        <item>Packet receive buffer</item>
+        <item>Very high frequency : 30MHz to 300 MHz</item>
+        <item>Terminal emulation</item>
+        <item>Ultra high frequency : 300 MHz to 3000 MHz</item>
+        <item>A technique used to best-effort delivery systems to avoid endlessly looping packets.</item>
+        <item>Keyboard</item>
+        <item>TFTP</item>
+    </string-array>
+    <string-array name="Computer_networks_variant_1">
+        <item>Binary digits</item>
+        <item>Network</item>
+        <item>Multiply</item>
+        <item>Mesh</item>
+        <item>Delta routing</item>
+        <item>Slower data transmission</item>
+        <item>Password administrators</item>
+        <item>Digital transmission</item>
+        <item>Dirty packet buffer</item>
+        <item>Very high frequency : 30MHz to 300 MHz</item>
+        <item>Terminal emulation</item>
+        <item>Very low frequency : 3 kHz to 30 kHz</item>
+        <item>A technique used to best-effort delivery systems to avoid endlessly looping packets.</item>
+        <item>Motherboard</item>
+        <item>TFTP</item>
+    </string-array>
+    <string-array name="Computer_networks_variant_2">
+        <item>Byte</item>
+        <item>Mainframe</item>
+        <item>Duplex</item>
+        <item>Star</item>
+        <item>Static routing</item>
+        <item>Higher error rate</item>
+        <item>Network administrators</item>
+        <item>Infrared transmission</item>
+        <item>Packet block</item>
+        <item>High frequency : 3 MHz to 30 MHz</item>
+        <item>Modem</item>
+        <item>Medium frequency : 300 kHz to 3 MHz</item>
+        <item>A technique used by protocols in which a lower level protocol accepts a message from a higher level protocol and places it in the data portion of the law level frame.</item>
+        <item>Scanner</item>
+        <item>TELNET</item>
+    </string-array>
+    <string-array name="Computer_networks_variant_3">
+        <item>Word</item>
+        <item>Server</item>
+        <item>Half duplex</item>
+        <item>Ring</item>
+        <item>Flooding</item>
+        <item>Interference of transmissions from different computers</item>
+        <item>The government</item>
+        <item>Digitizing</item>
+        <item>Packet receive buffer</item>
+        <item>Low frequency : 30kHz to 300 kHz</item>
+        <item>Bulletin board</item>
+        <item>Super high frequency : 3000 MHz to 30000 MHz</item>
+        <item>One of the pieces that results when an IP gateway divides an IP datagram into smaller pieces for transmission across a network that cannot handle the original datagram size.</item>
+        <item>Keyboard</item>
+        <item>FTP</item>
+    </string-array>
+    <string-array name="Computer_networks_variant_4">
+        <item>Nibble</item>
+        <item>Workgroup</item>
+        <item>Simplex</item>
+        <item>Tree</item>
+        <item>Hot potato routing</item>
+        <item>All of the above</item>
+        <item>IT managers</item>
+        <item>Multiplexing</item>
+        <item>Packet cache buffer</item>
+        <item>Very low frequency : 3kHz to 30 kHz</item>
+        <item>Auto-dialing</item>
+        <item>Ultra high frequency : 300 MHz to 3000 MHz</item>
+        <item>All of these</item>
+        <item>Mouse</item>
+        <item>RARP</item>
+    </string-array>
+    <!--Computer_networks_8_part-->
+
+    <!--Computer_organization_9_part-->
+    <string-array name="Computer_organization_questions">
+        <item>Which of the following statements correctly describes the microcomputer disk drive?</item>
+        <item>RAM chips</item>
+        <item>The CPU and memory are located on the</item>
+        <item>The brain of any computer system is</item>
+        <item>ALU stands for</item>
+        <item>Which unit controls the movements of signals between CPU and I/O?</item>
+        <item>The central processing unit is an example of</item>
+        <item>Transformation of input into output is performed by</item>
+        <item>Which of the following is responsible for all types of calculations?</item>
+        <item>Intel Pentium CPU is a ______ based processor.</item>
+        <item>Which functional computer of a computer is responsible for the computing?</item>
+        <item>Which of the following manages computer resources?</item>
+        <item>____ is a group of instruction that directs a computer?</item>
+        <item>Another word for the CPU is</item>
+        <item>Speed of processor is measured in</item>
+    </string-array>
+    <string-array name="Computer_organization_answers">
+        <item>All of these</item>
+        <item>Allow the computer to store data electronically</item>
+        <item>Motherboard</item>
+        <item>CPU</item>
+        <item>Arithmetic and logical unit</item>
+        <item>Control unit</item>
+        <item>Hardware</item>
+        <item>CPU</item>
+        <item>ALU</item>
+        <item>RISC</item>
+        <item>CPU</item>
+        <item>Control unit</item>
+        <item>Program</item>
+        <item>Microprocessor</item>
+        <item>Hertz</item>
+    </string-array>
+    <string-array name="Computer_organization_variant_1">
+        <item>A disk drive is used to transfer data to and from disks.</item>
+        <item>Store data indefinitely unless you delete it</item>
+        <item>Keyboard</item>
+        <item>CPU</item>
+        <item>Algorithm and logical unit</item>
+        <item>Memory unit</item>
+        <item>Peripheral</item>
+        <item>CPU</item>
+        <item>BUS</item>
+        <item>LISC</item>
+        <item>Memory</item>
+        <item>BUS</item>
+        <item>Logic</item>
+        <item>Decode</item>
+        <item>Hertz</item>
+    </string-array>
+    <string-array name="Computer_organization_variant_2">
+        <item>The two types of disk drives are hard disks and flexible disks.</item>
+        <item>Allow the computer to store data electronically</item>
+        <item>Graphics board</item>
+        <item>Memory</item>
+        <item>Arithmetic and logical unit</item>
+        <item>Secondary storage</item>
+        <item>Software</item>
+        <item>Storage</item>
+        <item>Registers</item>
+        <item>MISC</item>
+        <item>CPU</item>
+        <item>ALU</item>
+        <item>Data</item>
+        <item>Microchip</item>
+        <item>Pathom</item>
+    </string-array>
+    <string-array name="Computer_organization_variant_3">
+        <item>Hard disks are permanent storage devices.</item>
+        <item>Are always measured in thousand of bytes</item>
+        <item>Sound board</item>
+        <item>ALU</item>
+        <item>Arithmetic and logarithm unit</item>
+        <item>Control unit</item>
+        <item>Hardware</item>
+        <item>Memory</item>
+        <item>ALU</item>
+        <item>RISC</item>
+        <item>Input</item>
+        <item>I/O unit</item>
+        <item>Program</item>
+        <item>Execute</item>
+        <item>Byte</item>
+    </string-array>
+    <string-array name="Computer_organization_variant_4">
+        <item>All of these</item>
+        <item>All of these</item>
+        <item>Motherboard</item>
+        <item>Control unit</item>
+        <item>Algorithm and logarithm unit</item>
+        <item>ALU</item>
+        <item>An output unit</item>
+        <item>Peripherals</item>
+        <item>Control unit</item>
+        <item>CISC</item>
+        <item>Output</item>
+        <item>Control unit</item>
+        <item>Information</item>
+        <item>Microprocessor</item>
+        <item>Bit</item>
+    </string-array>
+    <!--Computer_organization_9_part-->
+
+    <!--data_communications_10_part-->
+    <string-array name="data_communications_questions">
+        <item>Converting digital signals to analog signals</item>
+        <item>Time-division multiplexer</item>
+        <item>Statistical multiplexers need buffers while multiplexers do not need buffers</item>
+        <item>They contain clock recovery circuits</item>
+        <item>A coaxial cable</item>
+        <item>Seven</item>
+        <item>User friendly</item>
+        <item>Operating System, Application Programs</item>
+        <item>Analog</item>
+        <item>Computer Aided Design</item>
+        <item>Presentation</item>
+        <item>Cyclic redundancy codes</item>
+        <item>Frequency-division multiple access</item>
+        <item>The home page</item>
+        <item>Converting analog signals to digital signals</item>
+    </string-array>
+    <string-array name="data_communications_answers">
+        <item>Modulation is the process of</item>
+        <item>Many low-shaped channels are interwoven into one high-speed transmission by</item>
+        <item>Which of the following is the difference between a multiplexer and a statistical multiplexer?</item>
+        <item>The synchronous modems are more costly than the asynchronous modems because</item>
+        <item>To connect a computer with a device in the same room, you might be likely to use</item>
+        <item>The OSI model consists of ___ layers.</item>
+        <item>Something which has easily understood instructions is said to be</item>
+        <item>Each computer have a/an ____, and some ____</item>
+        <item>In ____ computers, computation is carried out with physical quantities such as voltage, length, current, temperature, etc.</item>
+        <item>In Computer terminology ‘CAD’ is stands for</item>
+        <item>If you use either Telnet or FTP, which is the highest layer you are using to transmit data?</item>
+        <item>Error detection at the data link level is achieved by</item>
+        <item>Which of the following techniques is used for allocating capacity on a satellite channel using fixed-assignment FDM?</item>
+        <item>The connection between your computer at home and your local ISP is called _____</item>
+        <item>Demodulation is the process of</item>
+    </string-array>
+    <string-array name="data_communications_variant_1">
+        <item>Echoing every character that is received</item>
+        <item>Frequency-division multiplexer</item>
+        <item>Multiplexer use X.25 protocol, while statistical multiplexers use the Alpha protocol</item>
+        <item>They operate with a larger bandwidth</item>
+        <item>A ground station</item>
+        <item>Five</item>
+        <item>Information</item>
+        <item>Internet Browsers, Document files</item>
+        <item>Analog</item>
+        <item>Computer and Design</item>
+        <item>Application</item>
+        <item>Equalization</item>
+        <item>Frequency-shift keying</item>
+        <item>The backbone</item>
+        <item>Dividing the high-speed signals into frequency bands</item>
+    </string-array>
+    <string-array name="data_communications_variant_2">
+        <item>Sending a file from one computer to another computer</item>
+        <item>Time-division multiplexer</item>
+        <item>Statistical multiplexers need buffers while multiplexers do not need buffers</item>
+        <item>They produce large volume of data</item>
+        <item>A dedicated line</item>
+        <item>Seven</item>
+        <item>Icon</item>
+        <item>Operating System, Application Programs</item>
+        <item>Digital</item>
+        <item>Computer and Device</item>
+        <item>Session</item>
+        <item>Bit stuffing</item>
+        <item>Frequency modulation</item>
+        <item>The home page</item>
+        <item>Converting digital signals to analog signals</item>
+    </string-array>
+    <string-array name="data_communications_variant_3">
+        <item>Converting digital signals to analog signals</item>
+        <item>Both (a) and (b)</item>
+        <item>Multiplexers often waste the output link capacity while statistical multiplexers oppose its use</item>
+        <item>They contain clock recovery circuits</item>
+        <item>A coaxial cable</item>
+        <item>Eight</item>
+        <item>Word processing</item>
+        <item>Hard Disk, Programming Programs</item>
+        <item>Hybrid</item>
+        <item>Computer Algorithm in Design</item>
+        <item>Presentation</item>
+        <item>Hamming codes</item>
+        <item>Frequency-division multiple access</item>
+        <item>The home stretch</item>
+        <item>Converting analog signals to digital signals</item>
+    </string-array>
+    <string-array name="data_communications_variant_4">
+        <item>Converting analog signals to digital signals</item>
+        <item>None of these</item>
+        <item>Multiplexers use Time Division multiplexing (TDM) while statistical multiplexers uses Frequency division multiplexing (FDM)</item>
+        <item>They transmit the data with stop and start bits</item>
+        <item>All of the above</item>
+        <item>Nine</item>
+        <item>User friendly</item>
+        <item>Operating system, Tally</item>
+        <item>Micro compute</item>
+        <item>Computer Aided Design</item>
+        <item>Transport</item>
+        <item>Cyclic redundancy codes</item>
+        <item>Amplitude modulation</item>
+        <item>The last mile</item>
+        <item>Combining many low speed channels into one high speed channel</item>
+    </string-array>
+    <!--data_communications_10_part-->
+
+    <!--data_processing_11_part-->
+    <string-array name="data_processing_questions">
+        <item>What device separates a single network into two segments but lets the two segments appear as one to higher protocols?</item>
+        <item>How many hosts are attached to each of the local area network at our site?</item>
+        <item>How many bits internet address is assigned to each host on a TCP/IP internet which is used in all communication with the host?</item>
+        <item>Twisted pair have maximum segment</item>
+        <item>A device that can convert digital signals to analog signals is a/an</item>
+        <item>Which of the following software’s are needed to satisfy user’s specific processing requirements?</item>
+        <item>A computer is capable of performing almost day task, provided that it can be</item>
+        <item>Processors of all computers, whether micro-mini, or mainframe must have</item>
+        <item>A new technology which provides the ability to create an artificial world and have people interact with it is called?</item>
+        <item>What is the number of read-write heads in the drive for a S-track magnetic tape?</item>
+        <item>A CPU generally contains</item>
+        <item>Terms used to describe concurrent processing via CRT in unit processor system is/are</item>
+        <item>In the batch processing environment, data is</item>
+        <item>Computer instructions in a program are performed in which order?</item>
+        <item>The main function of a electronic spread sheet is its</item>
+    </string-array>
+    <string-array name="data_processing_answers">
+        <item>Bridge</item>
+        <item>254</item>
+        <item>32 bits</item>
+        <item>100m</item>
+        <item>Modem</item>
+        <item>Systems software</item>
+        <item>Reduced to a series of logical steps</item>
+        <item>All of these</item>
+        <item>Virtual reality</item>
+        <item>16</item>
+        <item>All of these</item>
+        <item>All of these</item>
+        <item>Collected over a period of time</item>
+        <item>Consecutive</item>
+        <item>Sorting</item>
+    </string-array>
+    <string-array name="data_processing_variant_1">
+        <item>Router</item>
+        <item>128</item>
+        <item>16 bits</item>
+        <item>20m</item>
+        <item>Emulator</item>
+        <item>DTP software</item>
+        <item>Reduced to a series of logical steps</item>
+        <item>Control unit</item>
+        <item>Televirtuality</item>
+        <item>9</item>
+        <item>Instruction decoding circuit</item>
+        <item>Online processing</item>
+        <item>Collected over a period of time</item>
+        <item>Random</item>
+        <item>Filing</item>
+    </string-array>
+    <string-array name="data_processing_variant_2">
+        <item>Gateway</item>
+        <item>254</item>
+        <item>32 bits</item>
+        <item>100m</item>
+        <item>Packet</item>
+        <item>Graphics software’s</item>
+        <item>Analysed</item>
+        <item>ALU</item>
+        <item>Virtual reality</item>
+        <item>16</item>
+        <item>Control and timing section</item>
+        <item>Interactive processing</item>
+        <item>Processed immediately</item>
+        <item>Parallel</item>
+        <item>Sorting</item>
+    </string-array>
+    <string-array name="data_processing_variant_3">
+        <item>Bridge</item>
+        <item>256</item>
+        <item>48  bits</item>
+        <item>200m</item>
+        <item>Modem</item>
+        <item>Application software</item>
+        <item>Memorized</item>
+        <item>Primary storage</item>
+        <item>Alternative reality</item>
+        <item>18</item>
+        <item>Registers and ALU</item>
+        <item>Time sharing</item>
+        <item>Held in a temporary computer file</item>
+        <item>Consecutive</item>
+        <item>Heading</item>
+    </string-array>
+    <string-array name="data_processing_variant_4">
+        <item>Switch</item>
+        <item>360</item>
+        <item>64  bits</item>
+        <item>400m</item>
+        <item>Cable</item>
+        <item>Systems software</item>
+        <item>Coded</item>
+        <item>All of these</item>
+        <item>3-D reality</item>
+        <item>27</item>
+        <item>All of these</item>
+        <item>All of these</item>
+        <item>Entered directly into the computer</item>
+        <item>All of these</item>
+        <item>Formulas</item>
+    </string-array>
+    <!--data_processing_11_part-->
+
+    <!--data_structure_12_part-->
+    <string-array name="data_structure_questions">
+        <item>A data structure in which linear sequence is maintained by pointers is known as</item>
+        <item>Which of the following data structure works on the principle of First Come First Serve?</item>
+        <item>A ____ is a linear collection of self-referential structures, called nodes, connected by pointer links.</item>
+        <item>A queue where all elements have equal priority is a</item>
+        <item>A file that is only read by a program is known as ____</item>
+        <item>Which of the following sorting algorithm is the slowest?</item>
+        <item>Which of the following data structure can be used to represent many-to-many relation?</item>
+        <item>Which of the following statement is not true about linked lists?</item>
+        <item>Which of the following is not a linear data structure?</item>
+        <item>Which of the following data structure permits insertion and deletion operations only on one end of the structure?</item>
+        <item>Which of the following data structure is more appropriate to represent a heap?</item>
+        <item>Minimum number of fields in each node of a doubly linked list is ____</item>
+        <item>A graph in which all vertices have equal degree is known as ____</item>
+        <item>A vertex of in-degree zero in a directed graph is called a/an</item>
+        <item>A graph is a tree if and only if graph is</item>
+    </string-array>
+    <string-array name="data_structure_answers">
+        <item>Linked list</item>
+        <item>Queue</item>
+        <item>Linked list</item>
+        <item>FIFO data structure</item>
+        <item>Input file</item>
+        <item>Bubble sort</item>
+        <item>Graph</item>
+        <item>Element in a linked list, if it is sorted, can be quickly searched by applying binary search technique</item>
+        <item>Binary tree</item>
+        <item>Stack</item>
+        <item>Linear Array</item>
+        <item>3</item>
+        <item>Complete graph</item>
+        <item>Sink</item>
+        <item>Contains no cycles</item>
+    </string-array>
+    <string-array name="data_structure_variant_1">
+        <item>Array</item>
+        <item>Priority queue</item>
+        <item>Queue</item>
+        <item>FILO data structure</item>
+        <item>Input file</item>
+        <item>Bubble sort</item>
+        <item>B-tree</item>
+        <item>Element in a linked list, if it is sorted, can be quickly searched by applying binary search technique</item>
+        <item>Stack</item>
+        <item>Linked list</item>
+        <item>Two-dimensional array</item>
+        <item>2</item>
+        <item>Complete graph</item>
+        <item>Root vertex</item>
+        <item>Directed graph</item>
+    </string-array>
+    <string-array name="data_structure_variant_2">
+        <item>Stack</item>
+        <item>Heap</item>
+        <item>Linked list</item>
+        <item>LILO data structure</item>
+        <item>Temporary file</item>
+        <item>Heap sort</item>
+        <item>Binary tree</item>
+        <item>Elements are not necessarily stored in contiguous locations</item>
+        <item>Queue</item>
+        <item>Array</item>
+        <item>Doubly linked list</item>
+        <item>3</item>
+        <item>Regular graph</item>
+        <item>Isolated vertex</item>
+        <item>Contains no cycles</item>
+    </string-array>
+    <string-array name="data_structure_variant_3">
+        <item>Linked list</item>
+        <item>Stack</item>
+        <item>Tree</item>
+        <item>FIFO data structure</item>
+        <item>Work file</item>
+        <item>Shell sort</item>
+        <item>Graph</item>
+        <item>Insertions and deletions can be performed efficiently as compared to arrays</item>
+        <item>Linked list</item>
+        <item>Stack</item>
+        <item>Linear Array</item>
+        <item>4</item>
+        <item>Multi graph</item>
+        <item>Sink</item>
+        <item>Planar</item>
+    </string-array>
+    <string-array name="data_structure_variant_4">
+        <item>Pointer-based data structure</item>
+        <item>Queue</item>
+        <item>Stack</item>
+        <item>LIFO data structure</item>
+        <item>Input/output file</item>
+        <item>Quick sort</item>
+        <item>All of above</item>
+        <item>Linked list is a dynamic structure</item>
+        <item>Binary tree</item>
+        <item>Queue</item>
+        <item>Linked list</item>
+        <item>None of the above</item>
+        <item>Simple graph</item>
+        <item>Articulation point</item>
+        <item>Completely connected</item>
+    </string-array>
+    <!--data_structure_12_part-->
+
+    <!--internet_technology_13_part-->
+    <string-array name="internet_technology_questions">
+        <item>What is included in an e-mail address?</item>
+        <item>What is e-commerce?</item>
+        <item>Which of the following is required to create an HTML document?</item>
+        <item>Most World Wide Web pages contains commands in the language _____</item>
+        <item>The RAMAC had one access arm per</item>
+        <item>_____ services are available free at portals on the web.</item>
+        <item>An E-mail address typically consists of a user ID followed by the ____ sign and the name of the e-mail server that manages the user’s electronic post office box.</item>
+        <item>What is a set of information that defines the status of resources allocated to a process?</item>
+        <item>Which of the following functions is not performed by servers?</item>
+        <item>_____ search engine sends request for information to several search engines simultaneously and compiles the results.</item>
+        <item>Which of the following is called as protocol in the URL? http://www.meritnotes.com</item>
+        <item>In HTML tags consists of keywords enclosed with</item>
+        <item>An http request contains ___ parts.</item>
+        <item>To reload a webpage, press the _____ button.</item>
+        <item>An educational institution would generally have the following in its domain name _____</item>
+    </string-array>
+    <string-array name="internet_technology_answers">
+        <item>User’s name followed by domain name</item>
+        <item>Buying and selling of products and services over the Internet</item>
+        <item>Text editor</item>
+        <item>HTML</item>
+        <item>Disk stack</item>
+        <item>E-mail</item>
+        <item>"@"</item>
+        <item>Process control</item>
+        <item>Word processing</item>
+        <item>Meta</item>
+        <item>http</item>
+        <item>angular brackets</item>
+        <item>3</item>
+        <item>refresh</item>
+        <item>.edu</item>
+    </string-array>
+    <string-array name="internet_technology_variant_1">
+        <item>Domain name followed by user’s name</item>
+        <item>Buying and selling of products and services over the Internet</item>
+        <item>Search engines</item>
+        <item>NIH</item>
+        <item>Disk</item>
+        <item>Telephone</item>
+        <item>*</item>
+        <item>Process control</item>
+        <item>Word processing</item>
+        <item>Subject directory</item>
+        <item>.com</item>
+        <item>angular brackets</item>
+        <item>2</item>
+        <item>refresh</item>
+        <item>.inst</item>
+    </string-array>
+    <string-array name="internet_technology_variant_2">
+        <item>User’s name followed by postal address</item>
+        <item>Buying and selling of international goods</item>
+        <item>Internet</item>
+        <item>IRC</item>
+        <item>Sector</item>
+        <item>Video conferencing</item>
+        <item>#</item>
+        <item>Arithmetic unit</item>
+        <item>Processing websites</item>
+        <item>Individual</item>
+        <item>http</item>
+        <item>flower brackets {}</item>
+        <item>3</item>
+        <item>ctrl</item>
+        <item>.sch</item>
+    </string-array>
+    <string-array name="internet_technology_variant_3">
+        <item>User’s name followed by street address</item>
+        <item>Buying and selling of products having to do with computers</item>
+        <item>Text editor</item>
+        <item>URL</item>
+        <item>Track</item>
+        <item>FTP</item>
+        <item>"@"</item>
+        <item>Register unit</item>
+        <item>Database sharing</item>
+        <item>Meta</item>
+        <item>www</item>
+        <item>square brackets[]</item>
+        <item>4</item>
+        <item>redo</item>
+        <item>.edu</item>
+    </string-array>
+    <string-array name="internet_technology_variant_4">
+        <item>User’s name followed by domain name</item>
+        <item>Buying and selling of electronic goods</item>
+        <item>Browser</item>
+        <item>HTML</item>
+        <item>Disk stack</item>
+        <item>E-mail</item>
+        <item>"^"</item>
+        <item>Processing unit</item>
+        <item>E-mail processing</item>
+        <item>Directory</item>
+        <item>xyz</item>
+        <item>parentheses ()</item>
+        <item>5</item>
+        <item>reload</item>
+        <item>.org</item>
+    </string-array>
+    <!--internet_technology_13_part-->
+
+    <!--IT_14_part-->
+    <string-array name="IT_questions">
+        <item>ITES stands for ___</item>
+        <item>____ refers to conversion of non-digital material to digital form.</item>
+        <item>Which of the following is not an IT enabled service?</item>
+        <item>A turnkey package includes</item>
+        <item>A channel for communicating across a boundary between two or more subsystem  is known as</item>
+        <item>Which of the following is the telephone based shared Service Centre?</item>
+        <item>A facility that allows the user to speak into a special device while typing a letter using computer is called ___</item>
+        <item>BPO may be expanded as ___</item>
+        <item>Collection, digitization and processing of data is basic function of ____</item>
+        <item>Which of the following is an IT enabled service?</item>
+    </string-array>
+    <string-array name="IT_answers">
+        <item>Information Technology Enabled Services</item>
+        <item>Digitization</item>
+        <item>Word processor</item>
+        <item>All of these</item>
+        <item>Interface</item>
+        <item>Call centre</item>
+        <item>Dictaphone</item>
+        <item>Business Process Outcome</item>
+        <item>Data management</item>
+        <item>E-Governance</item>
+    </string-array>
+    <string-array name="IT_variant_1">
+        <item>Information Technology Entrusted Systems</item>
+        <item>Digitization</item>
+        <item>Call centre’s</item>
+        <item>Training</item>
+        <item>Data path</item>
+        <item>Call centre</item>
+        <item>Speaker</item>
+        <item>Business Process Outsourcing</item>
+        <item>Call centre</item>
+        <item>Database</item>
+    </string-array>
+    <string-array name="IT_variant_2">
+        <item>Information Technology Extended Services</item>
+        <item>Data transfer</item>
+        <item>E-Governance</item>
+        <item>Software</item>
+        <item>Walk through</item>
+        <item>ATM</item>
+        <item>Dictaphone</item>
+        <item>Business Product Outsourcing</item>
+        <item>Data management</item>
+        <item>Spreadsheet</item>
+    </string-array>
+    <string-array name="IT_variant_3">
+        <item>Information Technology Enabled Services</item>
+        <item>Transcription</item>
+        <item>Data digitization</item>
+        <item>Hardware</item>
+        <item>Act gram</item>
+        <item>Phone centre</item>
+        <item>Telephone</item>
+        <item>Business Process Outcome</item>
+        <item>E-Governance</item>
+        <item>Word processor</item>
+    </string-array>
+    <string-array name="IT_variant_4">
+        <item>Improving Technology Enlighted Services</item>
+        <item>None of the given</item>
+        <item>Word processor</item>
+        <item>All of these</item>
+        <item>Interface</item>
+        <item>None of these</item>
+        <item>Cell phone</item>
+        <item>Business Product Outcome</item>
+        <item>Data collection</item>
+        <item>E-Governance</item>
+    </string-array>
+    <!--IT_14_part-->
+
+    <!--operating_system_15_part-->
+    <string-array name="operating_system_questions">
+        <item>Two operating modes of AT are</item>
+        <item>Computer system is divided into how many numbers of components?</item>
+        <item>What is the name of the operating system that reads and reacts in terms of actual time?</item>
+        <item>Which of the following software is used to simplify using of system software?</item>
+        <item>UNIX operating system</item>
+        <item>Card reader is an example of</item>
+        <item>Context switching is part of</item>
+        <item>Which of the following is an example of a spooled device?</item>
+        <item>Operating system is resident in memory of which part?</item>
+        <item>Two basic types of operating systems are</item>
+        <item>Operating systems</item>
+        <item>Which of the following Is not a part of the operating system?</item>
+        <item>Operating system is a collection of</item>
+        <item>Which of the following is not an operating system?</item>
+        <item>FIFO scheduling is</item>
+    </string-array>
+    <string-array name="operating_system_answers">
+        <item>Real mode, protected mode</item>
+        <item>4</item>
+        <item>Real time system</item>
+        <item>Time sharing</item>
+        <item>all of these</item>
+        <item>Batch operating system</item>
+        <item>Interrupt handling</item>
+        <item>A line printer used to print the output of a number of jobs</item>
+        <item>Upper</item>
+        <item>Batch and interactive</item>
+        <item>provides a layer, user friendly interface</item>
+        <item>Performance monitor</item>
+        <item>Software routines</item>
+        <item>PASCAL</item>
+        <item>Non-preemptive scheduling</item>
+    </string-array>
+    <string-array name="operating_system_variant_1">
+        <item>Direct mode, indirect mode</item>
+        <item>1</item>
+        <item>Real time system</item>
+        <item>Time sharing</item>
+        <item>can run on PC’s and larger system</item>
+        <item>Multi-tasking</item>
+        <item> Interrupt servicing</item>
+        <item>A graphic display device</item>
+        <item>Middle</item>
+        <item>Batch and interactive</item>
+        <item>enables the programmer to draw a flow chart</item>
+        <item>Input/output control program</item>
+        <item>Software routines</item>
+        <item>UNIX</item>
+        <item>Fair-share scheduling</item>
+    </string-array>
+    <string-array name="operating_system_variant_2">
+        <item>Virtual mode, dedicated mode</item>
+        <item>2</item>
+        <item>Time sharing system</item>
+        <item>Multi-tasking</item>
+        <item>is multitasking</item>
+        <item>Multiprogramming</item>
+        <item>Interrupt handling</item>
+        <item>A line printer used to print the output of a number of jobs</item>
+        <item>Lower</item>
+        <item>Sequential and real time</item>
+        <item>provides a layer, user friendly interface</item>
+        <item>Job control program</item>
+        <item>Input-output devices</item>
+        <item>MS-DOS</item>
+        <item>Deadline scheduling</item>
+    </string-array>
+    <string-array name="operating_system_variant_3">
+        <item>Private mode, public mode</item>
+        <item>3</item>
+        <item>Quick response system</item>
+        <item>Operating environment</item>
+        <item>is multiuser</item>
+        <item>Batch operating system</item>
+        <item>Polling</item>
+        <item>A secondary storage device in a virtual memory system</item>
+        <item>Upper</item>
+        <item>Batch and time share</item>
+        <item>links a program with subroutine it references</item>
+        <item>Supervisor</item>
+        <item>Hardware components</item>
+        <item>CP/M</item>
+        <item>Non-preemptive scheduling</item>
+    </string-array>
+    <string-array name="operating_system_variant_4">
+        <item>Real mode, protected mode</item>
+        <item>4</item>
+        <item>Batch system</item>
+        <item>Spreadsheet</item>
+        <item>all of these</item>
+        <item>None of these</item>
+        <item>Spooling</item>
+        <item>A terminal used to enter input data to a running program</item>
+        <item>All of these</item>
+        <item>Sequential and direct</item>
+        <item>all of these</item>
+        <item>Performance monitor</item>
+        <item>All of these</item>
+        <item>PASCAL</item>
+        <item>Preemptive scheduling</item>
+    </string-array>
+    <!--operating_system_15_part-->
+
+    <!--artificial_intelligence_16_part-->
+    <string-array name="artificial_intelligence_questions">
+        <item>An essential field which is central to Artificial Intelligence research is?</item>
+        <item>The study of computer algorithms that improve automatically through experience is termed?</item>
+        <item>An evolved definition of Artificial Intelligence led to a phenomenon known as the</item>
+        <item>The ability to find patterns in a stream of input is referred to as?</item>
+        <item>Which of these is a tool used in Artificial Intelligence?</item>
+        <item>Which of the following is a fundamental goal of research in Artificial Intelligence?</item>
+        <item>The intelligence displayed by humans and other animals is termed?</item>
+        <item>Which of these is a field that is closely related to AI?</item>
+        <item>In what year was Artificial intelligence founded as an academic discipline?</item>
+        <item>Any device that perceives its environment and takes actions that maximize its chance of success at some goal is termed?</item>
+        <item>An android takes the form of:</item>
+    </string-array>
+    <string-array name="artificial_intelligence_answers">
+        <item>Knowledge engineering</item>
+        <item>Machine learning</item>
+        <item>AI Effect</item>
+        <item>Unsupervised learning</item>
+        <item>Neural networks</item>
+        <item>Reasoning</item>
+        <item>Natural intelligence</item>
+        <item>Mathematics</item>
+        <item>1956</item>
+        <item>Intelligent agent</item>
+        <item>A human body.</item>
+    </string-array>
+    <string-array name="artificial_intelligence_variant_1">
+        <item>Compilation</item>
+        <item>Compilation</item>
+        <item>Formulation</item>
+        <item>Unsupervised learning</item>
+        <item>Art</item>
+        <item>Reasoning</item>
+        <item>Constance</item>
+        <item>Wiring</item>
+        <item>1990</item>
+        <item>Input</item>
+        <item>An insect.</item>
+    </string-array>
+    <string-array name="artificial_intelligence_variant_2">
+        <item>Art</item>
+        <item>Formulation</item>
+        <item>Data processing</item>
+        <item>Optimization</item>
+        <item>Design</item>
+        <item>Coupling</item>
+        <item>Ability</item>
+        <item>Drawing</item>
+        <item>1956</item>
+        <item>Intelligent agent</item>
+        <item>A human body.</item>
+    </string-array>
+    <string-array name="artificial_intelligence_variant_3">
+        <item>Knowledge engineering</item>
+        <item>Machine learning</item>
+        <item>Machination</item>
+        <item>Inclination</item>
+        <item>Input</item>
+        <item>Mastering</item>
+        <item>Natural intelligence</item>
+        <item>Mathematics</item>
+        <item>1912</item>
+        <item>Data</item>
+        <item>A simple robot arm.</item>
+    </string-array>
+    <string-array name="artificial_intelligence_variant_4">
+        <item>Mastering</item>
+        <item>Ability</item>
+        <item>AI Effect</item>
+        <item>Mobilising</item>
+        <item>Neural networks</item>
+        <item>Data</item>
+        <item>Cognition</item>
+        <item>French</item>
+        <item>1909</item>
+        <item>Processor</item>
+        <item>Binocular vision.</item>
+    </string-array>
+    <!--artificial_intelligence_16_part-->
+
+</resources>
